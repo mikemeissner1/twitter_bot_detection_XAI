@@ -1,6 +1,6 @@
 # Twitter Bot Detection Using Machine Learning and Explainable AI
 ## Table of Contents
-- [Introduction](#introduction)
+- [Executive Summary](#executive-summary)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
   - [Importing Packages](#importing-packages)
@@ -14,7 +14,7 @@
 - [Results and Discussion](#results-and-discussion)
 - [Installation and Usage](#installation-and-usage)
 
-## Introduction
+## Executive Summary
 Provide an overview of your project, including its objectives and the significance of detecting bots within Twitter data using machine learning algorithms and explainable AI to enhance interpretability.
 
 ## Technologies Used
